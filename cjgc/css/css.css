@@ -1,0 +1,116 @@
+/*一流素材网收集整理 www.16sucai.com*/
+
+body{
+	margin:0;
+	padding:0;
+	text-align:center;
+	background-color:#FFFFFF;
+	font-size:14px;
+	color:#666666;
+	font-family: "宋体";
+}
+
+a.b{color:#ff7113;}	
+/*主导航菜单*/
+#menu ul{
+	padding:0;
+	border:0;
+	list-style:none;
+	line-height:100%;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+}
+#menu_out{
+	width:625px;
+	padding-left:0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left:auto;
+	margin-right:auto;	
+	background:url(images/menu_left1_01.jpg) no-repeat left top;
+}
+#menu_in{
+	background:url(images/menu_right1_01.jpg) no-repeat right top;
+	padding-right:0px;
+}
+#menu{
+	background:url(images/menu_bg1_01.jpg) repeat-x;
+	height:143px;	
+}
+.menu_line{
+	background:url(images/menu_line1.jpg) no-repeat center top;
+	width:8px;
+	
+}
+#nav{
+	padding-left:10px;
+}
+#nav li{
+	float:left;
+	height:35px;
+	
+}
+#nav li a{
+	float:left;
+	display:block;
+	padding-left:5px;	
+	height:35px;
+	background:url(images/menu_on_left.jpg) no-repeat left top;
+	cursor:pointer;
+	text-decoration:none;
+}
+#nav li a span{
+	float:left;
+	padding:11px 16px 10px 4px;
+	line-height:14px;
+	background:url(images/images/menu_on_right2_02.gif) no-repeat right top;
+	font-size:14px;
+	font-weight:bold;
+	color:#000;	
+	text-decoration:none;
+}
+#nav li .nav_on{   /*鼠标经过时变换背景，方便JS获取样式*/
+	background-position:left 100%;
+}
+#nav li .nav_on span{  /*鼠标经过时变换背景，方便JS获取样式*/
+	background-position:right 100%;
+	color:#fff;
+	
+	text-decoration:none;
+	padding:14px 14px 7px 10px;
+}
+/*子栏目*/
+#menu_con{
+	text-align:center;
+	clear:both;
+	height:107px;
+	
+}
+#menu_con span{
+	margin:0 auto;
+	width:623px;
+	float:left;
+	top:35px;
+	height:105px;
+	background:#FFF;
+    line-height:40px;
+    border:1px solid #CCC;
+}
+.ss{
+	width:400px;
+	height:30px;
+	left:9px;
+	display:block;
+	}
+.inputString {
+	width:300px;
+	}
+.btn{
+	width:70px;
+	right:9px;
+	background:#00F;
+	color:#fff;
+	
+	}

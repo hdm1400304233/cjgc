@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin:0;
+	padding:0;
+	margin:0 auto; 
+	position: relative;
+	font-size:14px;
+	text-align:center;	
+	}
+.yq 
+{   
+   margin-right: auto;
+    margin-left: auto;
+    left:4px;
+	bottom:0px;	
+	height:40px;
+	width:798px;
+	background:#fff;
+	border:1px solid #CCC;
+	display:block;
+	position:relative;
+}
+.tb
+{
+    left:12px;
+	top:1px;
+	height:38px;
+	width:24px;  
+	background:url(images/images/images/yq_03.gif);
+	display:block;
+	position:absolute;	
+}
+.yqlj
+{
+    width:76px;
+	height:40px;
+	font-family:"微软雅黑";
+	font-size:14px;
+	text-align:center;
+	line-height:40px;
+	color:#000;
+	left:38px;
+	top:0px;
+	display:block;
+	position:absolute;	
+}
+.ljps
+{
+	width:767px;
+	height:40px;
+	left:122px;
+	top:0px;
+	display:block;
+	position:absolute;
+}
+ 
+.ljall
+{
+	list-style-type:none;
+padding:0px;
+margin-top:10px;
+margin-left:-28px;
+}
+.lj1
+{
+    color:#00C;
+    font-size:14px;	
+	padding-left:35px;	
+	float:left;
+}
+

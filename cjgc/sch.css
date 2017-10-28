@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin:0;
+	padding:0;
+	margin:0 auto; 
+	text-align:center;	
+	}
+.ecoxw
+{
+    top:112px;
+	left:193px;
+	height:674px;
+	width:807px;
+	display:block;
+	position:absolute;	
+}
+.ul0
+{
+list-style-type:none;
+padding:0px;
+margin-top:10px;
+margin-left:0px;
+}
+.li0
+{
+	color:#000;
+    font-size:14px;
+	padding-left:33px;
+	
+	float:left;
+	
+}
+

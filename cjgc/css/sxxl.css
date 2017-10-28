@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin:0;
+	padding:0;
+	margin:0 auto; 
+	text-align:center;	
+	}
+.mm{
+	margin-right: auto;
+    margin-left: auto;
+	BORDER-RIGHT: #CCC 1px solid; 
+	BORDER-TOP: #CCC 1px solid;
+	 BORDER-LEFT: #CCC 1px solid; 
+	 BORDER-BOTTOM: #CCC 1px solid;
+	  SCROLLBAR-FACE-COLOR: #889b9f;
+	   SCROLLBAR-HIGHLIGHT-COLOR: #c3d6da;
+	    OVERFLOW: auto;
+		top:0px;
+		WIDTH: 191px; 
+		HEIGHT: 273px;
+		SCROLLBAR-SHADOW-COLOR: #3d5054; 
+		SCROLLBAR-3DLIGHT-COLOR: #3d5054; 
+		SCROLLBAR-ARROW-COLOR: #ffd6da;
+		SCROLLBAR-DARKSHADOW-COLOR: #85989c;
+		display:block;
+	    position:absolute; 
+	}
+ul{list-style:none;
+text-align:left;}
+#root{margin:30px 50px 5px 0px;width:195px;}
+#root li{line-height:30px;  font-size:14px;}
+#root .rem{padding-left:16px; }
+#root .add{background:url(http://pic.veryhuo.com/allimg/1010/liehuo_net_tree.gif) -4px -31px no-repeat;}
+#root .ren{background:url(http://pic.veryhuo.com/allimg/1010/liehuo_net_tree.gif) -4px -7px no-repeat;}
+#root li a{color:#666666;padding-left:5px;outline:none;blr:expression(this.onFocus=this.blur());}
+#root .two{padding-left:20px;display:none;}
+#root .bb{
+	margin-right:1px;
+	
+	}
